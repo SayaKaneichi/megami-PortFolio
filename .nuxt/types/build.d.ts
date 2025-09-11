@@ -14,6 +14,8 @@ declare module "#build/plugins.server.mjs";
 declare module "#build/test-component-wrapper.mjs";
 declare module "#build/vuetify-nuxt-plugin.client.mjs";
 declare module "#build/vuetify-nuxt-plugin.server.mjs";
+declare module "#build/devtools/settings.mjs";
+declare module "#build/runtime.vue-devtools-client.9tF0oEaaXAmc_8Cfr_hevTX5X9djPC93BBhCYZ1kdl4.js";
 declare module "#build/pages.mjs";
 declare module "#build/router.options.mjs";
 declare module "#build/unhead-options.mjs";
